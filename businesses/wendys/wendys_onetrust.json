@@ -1,9 +1,9 @@
 {
-    "id": "onetrust_staging_001",
-    "name": "OneTrust Test Instance",
+    "id": "wendys_onetrust_001",
+    "name": "Wendys - OneTrust Tenant",
     "logo": null,
-    "api_base": "https://privacyportal-staging.1trust.ninja",
-    "supported_actions": ["access", "deletion"],
+    "api_base": "https://privacyportaluat.onetrust.com",
+    "supported_actions": ["deletion", "sale:opt-out"],
     "supported_verfications": ["email"],
     "web_url": "https://onetrust.com",
     "technical_contact": "shegde@onetrust.com",
