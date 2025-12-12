@@ -8,7 +8,7 @@ This repository relies on a some features specific to the GitHub platform to fun
 
 ## Settings to change from default
 
-[repository settings](https://github.com/consumer-reports-innovation-lab/drp-service-directory/settings) to change from their defaults:
+[repository settings](https://github.com/datarightsprotocol/drp-service-directory/settings) to change from their defaults:
 
 ### General Settings 
 

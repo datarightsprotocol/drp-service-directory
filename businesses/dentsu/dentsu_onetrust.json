@@ -1,0 +1,11 @@
+{
+    "id": "dentsu_onetrust_001",
+    "name": "Dentsu - OneTrust Tenant",
+    "logo": null,
+    "api_base": "https://privacyportaluat.onetrust.com",
+    "supported_actions": ["deletion", "sale:opt-out"],
+    "supported_verfications": ["email"],
+    "web_url": "https://onetrust.com",
+    "technical_contact": "shegde@onetrust.com",
+    "business_contact": "ksoll@onetrust.com"
+}
